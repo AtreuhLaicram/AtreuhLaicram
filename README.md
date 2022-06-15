@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AtreuhLaicram
 - 👀 I’m interested in upgrade my skills in codeing and automation
-- 🌱 I’m currently learning the IT Automation with Python course, by Google, at Coursera
+- 🌱 I recently complete the IT Automation with Python course, by Google, at Coursera
 - 💞️ I’m looking to collaborate on IT industry or attract collaborators for a brand new project, may be
 - 📫 To reach me, send an email to marcialhuerta@gmail.com
 
